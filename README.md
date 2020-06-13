@@ -1,6 +1,6 @@
 # NLP
 POS Tagging
 Spacy
-Semantic and Sendiment Analysis
+Semantic and Sentiment Analysis
 Topic Modelling
 Text Classification
